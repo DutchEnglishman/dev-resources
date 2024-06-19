@@ -35,6 +35,13 @@ export const resources: Resource[] = [
         url: 'https://beampipe.io/',
     },
     {
+        name: 'beatchurn',
+        categories: ['Analytics'],
+        description:
+            'Customer Analytics tool that combines all customer data in one place.',
+        url: 'https://beatchurn.com/',
+    },
+    {
         name: 'Beautiful CSS box-shadow examples',
         categories: ['Code Snippet', 'Programming', 'UI'],
         description:
